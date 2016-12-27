@@ -331,6 +331,9 @@
     <Filter Include="experimental\models">
       <UniqueIdentifier>{9eeb0683-3147-4850-9eba-645af86b58e4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="experimental\termstructures\yield">
+      <UniqueIdentifier>{a5b32451-568f-4f79-ac21-9881fd1a3587}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ql\methods\all.hpp">
